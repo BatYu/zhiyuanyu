@@ -10,8 +10,3 @@ location: "St. Louis, US"
 ---
 
 Designed a lab module about physically realizable adversarial machine learning attack against autonomous vehicles (AVs). The students were guided to train and generate adversarial patches to be physically attached on stop sign and human body, such that they would not be recognized by Yolo recognition algorithm equipped on AVs. Real world experiments were conducted on a set-up Adeept Rasptank car in a simulated city.
-
-SP22 CSE 569S: Recent Advances in Computer Security and Privacy
-======
-
-
