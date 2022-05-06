@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Zhiyuan Yu is a Ph.D. candidate in the Department of Computer Science and Engineering at Washington University in St. Louis. He is currently working in Computer Security and Privacy Lab (CSPL) supervised by Prof. Ning Zhang. His research interests include cyber-physical security, adversarial machine learning, and usable privacy. He received B.E. degree in Electrical Engineering from Huazhong University of science and Technology in 2019.
+Zhiyuan Yu is a Ph.D. candidate in the Department of Computer Science and Engineering at Washington University in St. Louis. He is currently working in Computer Security and Privacy Lab (CSPL) supervised by Prof. Ning Zhang. His research interests include cyber-physical security, adversarial machine learning, and usable privacy. He received B.E. degree in Electrical Engineering from Huazhong University of Science and Technology in 2019.
