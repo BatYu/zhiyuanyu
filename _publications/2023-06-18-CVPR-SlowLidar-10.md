@@ -1,5 +1,5 @@
 ---
-title: "XCheck: Verifying Integrity of 3D Printed Patient-Specific Devices via Computing Tomography"
+title: "SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples"
 collection: publications
 permalink: /publication/2023-08-09-USENIX-XCheck-9
 excerpt: 'This paper is about delaying LiDAR processing via adversarial purterbations on point clouds.'
