@@ -1,7 +1,7 @@
 ---
 title: "SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples"
 collection: publications
-permalink: /publication/2023-08-09-USENIX-XCheck-9
+permalink: /publication/2023-06-18-CVPR-SlowLidar-10
 excerpt: 'This paper is about delaying LiDAR processing via adversarial purterbations on point clouds.'
 date: 2023-06-18
 venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition'
