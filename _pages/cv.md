@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](files/CV_ZhiyuanYu.pdf)
+[My CV](https://batyu.github.io/zhiyuanyu/files/CV_ZhiyuanYu.pdf)
 
 Education
 ======
