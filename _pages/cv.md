@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[My CV](https://batyu.github.io/zhiyuanyu/files/CV_ZhiyuanYu.pdf)
-
 Education
 ======
 * B.S. in Electrical Engineering, Huazhong University of Science and Technology, 2019
@@ -37,7 +35,7 @@ Service and leadership
 * IEEE/ACM Transactions on Networking
 * ACM Conference on Computer and Communications Security (CCS)
 * ACM ASIA Conference on Computer and Communications Security (ASIACCS)
-* IEEE European Symposium of Security and Privacy (EuroS\&P)
+* IEEE European Symposium of Security and Privacy (EuroS&P)
 * ISOC The Network and Distributed System Security Symposium (NDSS)
 * IEEE International Conference on Computer Communications (INFOCOM)
 * IEEE Winter Conference on Applications of Computer Vision (WACV)
