@@ -42,3 +42,6 @@ Service and leadership
 * IEEE International Conference on Computer Communications (INFOCOM)
 * IEEE Winter Conference on Applications of Computer Vision (WACV)
 * ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
+
+### Volunteering
+* Student Volunteer, ACM Conference on Computer and Communications Security (CCS) 2022
