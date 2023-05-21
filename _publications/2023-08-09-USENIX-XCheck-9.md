@@ -6,7 +6,7 @@ excerpt: 'This paper is about a defense-in-depth approach for medical 3D printin
 date: 2023-08-09
 venue: 'USENIX Security Symposium'
 paperurl: 'https://www.usenix.org/conference/usenixsecurity23/presentation/yuzhiyuan-0'
-citation: 'Z. Yu, Y. Chang, S. Zhai, N. Deily, T. Ju, XF. Wang, U. Jammalamadaka, N. Zhang. XCheck: Verifying Integrity of 3D Printed Patient-Specific Devices via Computing Tomography. In Proceedings of the 32nd USENIX Security Symposium 2023. USENIX Association.'
+# citation: 'Z. Yu, Y. Chang, S. Zhai, N. Deily, T. Ju, XF. Wang, U. Jammalamadaka, N. Zhang. XCheck: Verifying Integrity of 3D Printed Patient-Specific Devices via Computing Tomography. In Proceedings of the 32nd USENIX Security Symposium 2023. USENIX Association.'
 ---
 This paper is about a defense-in-depth approach for medical 3D printing, leveraging medical CT and computational graphic techniques.
 

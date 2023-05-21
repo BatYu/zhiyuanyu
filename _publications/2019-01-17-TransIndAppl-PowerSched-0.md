@@ -6,7 +6,7 @@ excerpt: 'This paper is about day-ahead scheduling of hydro and wind power gener
 date: 2019-01-17
 venue: 'IEEE Transactions on Industry Applications'
 paperurl: 'https://ieeexplore.ieee.org/document/8616783'
-citation: 'Y. Li, T. Zhao, C. Liu, Y. Zhao, Z. Yu, K. Li, L. Wu. Day-ahead coordinated scheduling of hydro and wind power generation system considering uncertainties. IEEE Transactions on Industry Applications. 2019 Jan 17;55(3):2368-77.'
+# citation: 'Y. Li, T. Zhao, C. Liu, Y. Zhao, Z. Yu, K. Li, L. Wu. Day-ahead coordinated scheduling of hydro and wind power generation system considering uncertainties. IEEE Transactions on Industry Applications. 2019 Jan 17;55(3):2368-77.'
 ---
 This paper is about day-ahead scheduling of hydro and wind power generation system.
 

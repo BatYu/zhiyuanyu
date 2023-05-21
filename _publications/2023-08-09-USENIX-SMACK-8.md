@@ -6,7 +6,7 @@ excerpt: 'This paper is about generating semantic adversarial audio examples by 
 date: 2023-08-09
 venue: 'USENIX Security Symposium'
 paperurl: 'https://www.usenix.org/conference/usenixsecurity23/presentation/yuzhiyuan'
-citation: 'Z. Yu, Y. Chang, N. Zhang, C. Xiao. SMACK: Semantically Meaningful Adversarial Audio Attack. In Proceedings of the 32nd USENIX Security Symposium 2023. USENIX Association.'
+# citation: 'Z. Yu, Y. Chang, N. Zhang, C. Xiao. SMACK: Semantically Meaningful Adversarial Audio Attack. In Proceedings of the 32nd USENIX Security Symposium 2023. USENIX Association.'
 ---
 This paper is about generating semantic adversarial audio examples by perturbing prosody attributes.
 
