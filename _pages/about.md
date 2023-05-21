@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhiyuan Yu" [(CV)](https://batyu.github.io/zhiyuanyu/files/CV_ZhiyuanYu.pdf)
+title: "Zhiyuan Yu [(CV)](https://batyu.github.io/zhiyuanyu/files/CV_ZhiyuanYu.pdf)" 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
