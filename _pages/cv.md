@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [(PDF)](https://batyu.github.io/zhiyuanyu/files/CV_ZhiyuanYu.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
