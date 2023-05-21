@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version of my CV can be found here](https://batyu.github.io/zhiyuanyu/files/CV_ZhiyuanYu.pdf)
+
 Education
 ======
 * B.S. in Electrical Engineering, Huazhong University of Science and Technology, 2019
