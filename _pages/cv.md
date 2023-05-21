@@ -9,17 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here](/images/CV_ZhiyuanYu.pdf)
+
 Education
 ======
 * B.S. in Electrical Engineering, Huazhong University of Science and Technology, 2019
 * Ph.D. in Computer Science, Washington University in St. Louis, 2024 (expected)
-  
-Skills
-======
-* Adversarial Machine Learning
-* Programming Language
-  * Python
-  * C++
 
 Publications
 ======
