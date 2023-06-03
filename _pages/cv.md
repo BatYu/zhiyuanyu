@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](https://batyu.github.io/zhiyuanyu/files/CV_ZhiyuanYu.pdf)
+[PDF version](https://zh1yu4nyu.github.io/files/CV_ZhiyuanYu.pdf)
 
 Education
 ======
